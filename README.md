@@ -1,7 +1,7 @@
 # Ex.No-09-Building-a-Simple-AI-Agent-AI-Tourist-Guiide-for-India
 ## Aim 
 To design, implement and test a simple goal-based AI agent in Python that plans a personalised India trip itinerary for a tourist, based on the tourist's interest, trip duration and daily budget.
-# OBJECTIVES
+# OBJECTIVES 
 To understand the concept of a goal-based Al agent..To implement the Perceive → Reason → Plan→Act cycle..To
 create a knowledge base of Indian tourist destinations.To generate personalised itineraries based on interest, duration
 and budget.. To test the agent with different tourist profiles.
